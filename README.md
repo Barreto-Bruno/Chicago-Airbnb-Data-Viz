@@ -9,7 +9,7 @@ Investigation Overview This dataset including the information about the hosts, t
 ## Installation
 To run this project, it is necessary to clone this repository through this link:
 ```
-https://github.com/Barreto-Bruno/Data-Analysis-AB-test.git
+https://github.com/Barreto-Bruno/Chicago-Airbnb-Data-Viz.git
 ```
 
 ## Usage
